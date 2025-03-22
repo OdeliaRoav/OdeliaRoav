@@ -2,7 +2,13 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&text=&animation=&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?OdeliaRoav=anuraghazra&theme=chartreuse-dark_icons=true)
+       <br>
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OdeliaRoav&show_icons=true&theme=chartreuse-dark)    
+
+<br>
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">

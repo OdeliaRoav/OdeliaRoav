@@ -20,4 +20,14 @@
           <br/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
     </div> 
     </div>
+    <br/>
+<a href="https://www.acmicpc.net/user/pmsoo4" target="_blank">
+  <img src="https://img.shields.io/badge/BOJ-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+<a href="https://solved.ac/profile/pmsoo4" target="_blank">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID" />
+</a>
+
+
+    
     

@@ -30,6 +30,15 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pmsoo4&v=1" />
 </a>
 
+## 🎓 Academic
 
+**GPA** 4.22 / 4.5  
+**Scholarship** Academic Excellence (2023–2025, 5회)
+
+---
+
+## 🏆 Awards
+
+- SW 캡스톤 경진대회 최우수상 (Team Lead, 2025)
     
     

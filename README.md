@@ -17,7 +17,10 @@
     </div> 
     </div>
 
-<br/><br/>
+<br/>
+
+
+[![Resume](https://img.shields.io/badge/Resume-Download-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/OdeliaRoav/OdeliaRoav/main/Backend%20Developer.pdf)
 
     
  <a href="https://www.acmicpc.net/user/pmsoo4" target="_blank">
